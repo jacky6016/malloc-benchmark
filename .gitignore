@@ -1,0 +1,18 @@
+# temperary files
+*.tmp
+
+# executables/objects/link files/debug files
+*.o
+
+#log files
+*.txt
+*.csv
+
+# ignore compressed files
+*.rar
+*.zip
+*.tar
+
+# R config files
+*.RData
+*.Rhistory
